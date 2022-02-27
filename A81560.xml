@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diurnall out of the North, or, The daily occurrances of this weeke, with every particular passage at Yorke and Beverley, unto this present 16 of Iuly, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81560</idno>
+            <idno type="STC">Wing D1707</idno>
+            <idno type="STC">Thomason E107_11</idno>
+            <idno type="STC">ESTC P1059</idno>
+            <idno type="EEBO-CITATION">50290044</idno>
+            <idno type="OCLC">ocm 50290044</idno>
+            <idno type="VID">155991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155991)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diurnall out of the North, or, The daily occurrances of this weeke, with every particular passage at Yorke and Beverley, unto this present 16 of Iuly, 1642.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Fawcet, for D.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 18, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at head of t.p.: July, 18.</note>
+                  <note>Caption title.</note>
+                  <note>Date and imprint from colophon.</note>
+                  <note>Verso of p. 7 contains royal arms with init. "C R".</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>York (England) --  History, Military --  Early works to 1800.</term>
+               <term>Beverley (Humberside) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:155991:1"/>
+            <pb n="1" facs="tcp:155991:1" rendition="simple:additions"/>
+            <head>
+               <date>JULY, 18.</date> A DIURNALL out of the NORTH: OR, The daily Occurrences of this Weeke, with every particular Paſſage at <hi>YORKE</hi> and <hi>BEVERLEY,</hi> unto this preſent 16. of <hi>Iuly.</hi> 1642.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His day the King deſired to ſee his Army knit in a Poſture, and rode tho<g ref="char:EOLhyphen"/>rough and about them three or foure times very gallantly mounted and Armed, the entire Body ſtill faced which way ſo<g ref="char:EOLhyphen"/>ever he rode, or paſſed by them, and ſtooping all their Colours together<g ref="char:punc">▪</g>
+               <pb n="2" facs="tcp:155991:2"/>made a ſhoute of an houre long to Congratulate his Perſon; the number and men (both Comman<g ref="char:EOLhyphen"/>ders and private Soldiers) very conſiderable (how<g ref="char:EOLhyphen"/>ever talkt on and ſlighted) eſpecially in their ala<g ref="char:EOLhyphen"/>crity and forwardneſſe to obey his Majeſtie, though the middle ſort of the Country at firſt ſeem'd to ſtand in a pauſe or cogitation what to reſolve, but now, every day more and more come and ſend in ſupply of Men, Horſes, money, and proviſion, the King hath wonne upon them ſo by his Proteſtati<g ref="char:EOLhyphen"/>ons and diſpoſition towards the Country.</p>
+            <p>There was certaine Carts of Proviſion inten<g ref="char:EOLhyphen"/>ded out of <hi>Lincolnſhire</hi> to <hi>Hull,</hi> interpoſed others thinke, rather betrayed willingly by thoſe that had the Conduct to this ſide, and the ſuggeſtion is not unlikely becauſe the men are are thankt; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is very credible the Common people of that Coun<g ref="char:EOLhyphen"/>try, doe begin to deny what they were lately, and breake forth into murmures. But the wiſdome of our Parliament having plac'd ſuch faithfull and a<g ref="char:EOLhyphen"/>ble men there, who are of ſufficient power and eminencie in the Countrey, diſcharge their Im<g ref="char:EOLhyphen"/>ployment with a great deale of diſcretion and ſafety.</p>
+            <p>And if their wiſdomes doe not ſuddenly con<g ref="char:EOLhyphen"/>trive ſome ſupply for <hi>Hull,</hi> it may fall into an un<g ref="char:EOLhyphen"/>expected ſtrait, for the Towne begins to fall into parties and combuſtion amongſt themſelves, and Sir <hi>Iohn</hi> finds it a hard taske to make his Com<g ref="char:EOLunhyphen"/>mands be obeyed, pray God direct all things for the beſt.</p>
+            <pb n="3" facs="tcp:155991:2"/>
+            <p>There is privately come over divers Comman<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s for Horſe, and ſome ſupply of money, as ap<g ref="char:EOLhyphen"/>peared by a Moneths pay to the Souldery, but how from whom is not knowne, nor doe the Souldiers make it their enquiry, ſuffices that they find it in their pockets, the Prince, whome the Cavaleers ſtile Captaine <hi>Stewart,</hi> Commands as brave a Troope as ever came into Field, and ſome two dayes before the remove to <hi>Beverley,</hi> exerciſed them a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Head himſelfe, and with a countenance &amp; beha<g ref="char:EOLhyphen"/>viour ſo full of reſervedneſſe and manhood, that (without flattery) it much amazed the beholders, and one might read their admiration in their looks.</p>
+            <p>The Knights and Gentry of his Troope, preſent<g ref="char:EOLhyphen"/>ed him at his comming into the Field, and as he leſt his Caroach, by him that had the right hand of the Troope, with a very goodly white Horſe, trapped moſt richly to the ground with Velvet all ſtudded with burning waves of Gold, and a rich Tent for that dayes purpoſe, he put on a very curi<g ref="char:EOLhyphen"/>ous guilt Armor, and ſtraight way mounted his gal<g ref="char:EOLhyphen"/>lant Preſent, with generall acclamations through the Field, for though his Troope compleately con<g ref="char:EOLhyphen"/>ſiſts but of Two Hundred Horſe, yet there was to wa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e upon him, an infinite number of young Spi<g ref="char:EOLhyphen"/>rits martially habited, and bravely hors't, and of all ſorts at leaſt 40000. who followed him to the Towne with continuall ſhouts.</p>
+            <p>There had like to have bene the next day, (though the occaſion fell out that morne about ſome terme<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of compariſon) a dangerous falling out, between<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:155991:3"/>one Colonell <hi>Vavaſor,</hi> (a very goodly Gentle<g ref="char:EOLhyphen"/>man, and gratious with his Majeſty,) and a Knight of the Princes Troope, but his Majeſty had time<g ref="char:EOLhyphen"/>ly notice of it, ſent for them, and made a timely reconcilement, and that which gave another faire interpretation of his diſpoſition, was concerning ſome Citizens or Tradeſmen, who it ſeemes com<g ref="char:EOLhyphen"/>peld by diſtreſſe of Trade, to leave <hi>London</hi> to ſee <hi>Yorke,</hi> and having taken a Shop or two, the Towneſ<g ref="char:EOLhyphen"/>men not<g ref="char:punc">▪</g> onely grudg'd their long being there, but one Evening ſell upon them, threw their wares a<g ref="char:EOLhyphen"/>bout the Street, and beate them ſaying, <hi>Thoſe that drove the King from</hi> LONDON, <hi>ſhould not drive him from</hi> YORKE. This grew to ſuch a ſtrife, that the Lord Major told it to his Majeſty, who was heard to ſay, <hi>The meaneſt Subject or Citizen was as deare to him in their true affection, as the greateſt, and that no good Subject ſhould want his protection.</hi>
+            </p>
+            <p>The Arch-Biſhop doth feaſt his Majeſty very ſumptuouſly, and keeps a little Court for the com<g ref="char:EOLhyphen"/>manders and Souldiers, the Earle of <hi>Lindſey</hi> is to have Ships to ſtop all proviſion for <hi>Hull</hi> by Sea, and the mouth of <hi>Humber</hi> will be ſtrongly guarded, the Earle of <hi>Newcaſtle</hi> is very ſtrange in the City, and twas whiſpered that Mr. <hi>Iermyn,</hi> the Lord <hi>Digby,</hi> the Lord <hi>Foredich,</hi> and ſome others were there privately, but there was no ſuch thing, and thoſe lying papers doe but abuſe men, indeed in<g ref="char:EOLhyphen"/>fect them, and reflects upon the Iuſtice of the times but certaine it is, there is a great expectation, from beyond Sea, and ſtrong working for it.</p>
+            <pb n="5" facs="tcp:155991:3"/>
+            <p>Upon <hi>Tueſday</hi> morning by foure of the clocke, his Majeſty received a Packet from <hi>London,</hi> and in<g ref="char:EOLhyphen"/>formation of the Lord Majors commitment and the cauſe, and at Dinner was very merry in his diſ<g ref="char:EOLhyphen"/>courſe of it to the Lords, and they as free in deli<g ref="char:EOLhyphen"/>vering their opinions, and however hee conceives it be ſeemes to beare a great maſtery and temper over all paſſages and debatements. Amongſt o<g ref="char:EOLhyphen"/>ther diſcourſe it was told him of ſome Obſervati<g ref="char:EOLhyphen"/>ons upon his <hi>Declarations,</hi> and the Booke ſhowed him by the Lord <hi>Keeper,</hi> with a very blacke Cha<g ref="char:EOLhyphen"/>racter both of it and the Author being named, a Lawyer of <hi>Grayes-Inne.</hi> In the Afternoone the Lords had a Conſultation about him, and a Relati<g ref="char:EOLhyphen"/>on of one <hi>C. Babbam,</hi> for writing fooliſh and ſedi<g ref="char:EOLhyphen"/>tious Papers, and felling them to the Preſſe to live by them, and there was a <hi>Meſſage</hi> ordered from His Majeſty to both Houſes of PARLIAMENT for Commitment, if to bee found, and puniſh<g ref="char:EOLhyphen"/>ment.</p>
+            <p>Sir <hi>Francis Wortley</hi> and our new made Knight <hi>Duncombe,</hi> are deſigned a thouſand Men, eight hundred Foot, and two hundred Horſe, but whi<g ref="char:EOLhyphen"/>ther they are to march or which way is not yet knowne, but it is poſſible towards Mr. <hi>Haſtings</hi> who ſent a private Packet to the King, who makes his party very ſtrong, and is like to doe much dam<g ref="char:EOLhyphen"/>mage to <hi>Leiceſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhire.</hi> And the Lord <hi>Strange</hi> is as active in his way and puts <hi>Mancheſter</hi> to a muſe, but yet they hold him to it.</p>
+            <pb n="4" facs="tcp:155991:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:155991:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:155991:5"/>
+            <p>It is thought<g ref="char:punc">▪</g> there is a black cloud teeming in <hi>Kent,</hi> which may fall fatally if a North winde take it, the Souldiers talke lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly as if the time were come they were to be made for ever, and the Parliament, had provided all the Plate, and money ſolely for them.</p>
+            <p>That night the King came to <hi>Beverly</hi> about the ſhutting up of the day, there was ſent in Fifty great Horſes all of a darke Bay, handſomely ſet out with aſh-colour'd Ribbins, every man very gentilely ac<g ref="char:EOLhyphen"/>coutred, and armed, they were preſented to His Majeſty, but it is not knowne from whom certain<g ref="char:EOLhyphen"/>ly, but ſuppoſed from the Earle of <hi>Newcaſtle,</hi> by the bravery of their accoutrements.</p>
+            <p>His Majeſty next morning went to the great Church, heard Service and a Sermon, by one of the Arch biſhops Chaplaines, his text was <hi>Heb.</hi> 10.24. <hi>Let us conſider one another, to provoke unto love and to good workes,</hi> and held the ballance of his text both equally and excellently, though peradven<g ref="char:EOLhyphen"/>ture the Cavaleers did not carry much of it home.</p>
+            <p>Colonell <hi>Lunsford</hi> came the next day about two of the clocke in the Afternoone to <hi>Beverley,</hi> had private ſpeech for an houre with the King, and re<g ref="char:EOLhyphen"/>turned by Poſt immediately to the Earle of <hi>Ri<g ref="char:EOLhyphen"/>vers,</hi> who hath a Thouſand men at command into the field, and begins great things as is ſaid, and within an houre after another Poſt came from the Lord <hi>Strange,</hi> and returned preſently with a War<g ref="char:EOLhyphen"/>rant, Signed for the putting out certaine Juſtices that oppoſes or are cold to his Commands.</p>
+            <pb n="7" facs="tcp:155991:5"/>
+            <p>As the King was Bowling, there was ſcatter'd a paper with Verſes, very ſcandalous againſt Mr. PYM, and ſhewed the King, who having read them, tore them in pieces, and with a ſad looke ſaid, <hi>ſuch libellous Raſcals hath broke the peace of the Kingdom, and if Iuſtice did but lay hold of them, peoples minds would be quickly calm'd,</hi> he that ſhowed them very likely looked for better thankes.</p>
+            <p>The Lords here ſit as cloſe, as the Houſes of Parliament doe at <hi>London,</hi> let every good heart pray their conſultations may meet in the Glory of God and this Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON.</p>
+            <p>Printed by T. FAWCET, for <hi>D. C. July</hi> 18. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
